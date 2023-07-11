@@ -11,6 +11,7 @@ state = {
   filter: ''
 };
 
+  
 addContact = (contactData) => {
 
 const existContact = this.state.contacts.find(contact => 
